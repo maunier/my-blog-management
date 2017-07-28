@@ -1,0 +1,19 @@
+{
+  "name": "my-blog-management",
+  "version": "1.0.0",
+  "description": "博客后台管理系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaorui19910121/my-blog-management.git"
+  },
+  "author": "zhaorui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhaorui19910121/my-blog-management/issues"
+  },
+  "homepage": "https://github.com/zhaorui19910121/my-blog-management#readme"
+}
